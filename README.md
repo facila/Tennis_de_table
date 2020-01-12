@@ -54,3 +54,6 @@ Pour gérer plusieurs tableaux :
 Il faut créer un fichier par tableau en copiant le fichier d’origine
 Par exemple en tournoi.date.classement , tournoi.2020.01.12.1500
 ```
+```
+Pour ceux qui veulent développer pour ajouter des fonctions , le mot de passe est : azerty
+```
