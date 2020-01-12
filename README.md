@@ -1,6 +1,6 @@
 # Tennis_de_table
 
-### 1 : Equipes_de _4_repartition_des_tables.ods
+### 1 : equipes_de _4_repartition_des_tables.ods
 ```
 tableau donnant les possibilités pour faire jouer :
 - 2 rencontres sur 3 tables
@@ -11,7 +11,7 @@ tableau donnant les possibilités pour faire jouer :
 feuilles de saisie des joueurs d'un tournoi et de calcul automatique des poules
 ```
 ```
-Les feuilles des tableaux Ko T16 T32 T64 sont indépendantes.
+Les feuilles des tableaux Ko T16 T32 T64 sont indépendantes
 Il n’y a pas de fonction de saisie des résultats des poules avec remplissage automatique des tableaux
 Ces tableaux peuvent paraitre peu lisibles , mais ils permettent un suivi très simple de tout le tableau
 Le gagnant prend le numéro le plus bas du match , le perdant prend le numéro le haut
