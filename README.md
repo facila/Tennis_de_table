@@ -22,7 +22,8 @@ Le fichier sert à générer automatiquement les poules :
 – la feuille « Poules » donne automatiquement les poules
 – les feuilles « Poules de 3 » et « Poules de 4 » donne les poules à imprimer
 – la feuille « Numéros » permet de calculer la position des joueurs dans les poules
-– la feuille « Tables » permet de calculer le nombre de joueurs par poules 3 ou 4 en fonction du nombre de table
+– la feuille « Tables » permet de calculer le nombre de joueurs par poules
+                        3 ou 4 en fonction du nombre de table
 ```
 ```
 Sur la feuille « Joueurs » , il faut saisir :
@@ -43,8 +44,8 @@ Chaque joueur à un numéro initial
 Le résultat des poules donne le nouveau numéro de chaque joueur en fonction de sa place
 Les joueurs sont placés dans le tableau avec ce numéro
 Dans une poule :
-- le premier ne peut pas rencontrer le deuxième et le troisième avant la finale
-- le deuxième ne peut pas rencontrer le troisième avant la demi-finale
+- le premier   ne peut pas rencontrer le deuxième et le troisième avant la finale
+- le deuxième  ne peut pas rencontrer le troisième avant la demi-finale
 - le quatrième ne peut pas rencontrer le deuxième et le troisième avant la finale
 - le quatrième ne peut pas rencontrer le premier avant la demi-finale
 
