@@ -2,13 +2,13 @@
 
 ### 1 : equipes_de _4_repartition_des_tables.ods
 ```
-tableau donnant les possibilités pour faire jouer :
+Tableau donnant les possibilités pour faire jouer :
 - 2 rencontres sur 3 tables
 - 3 rencontres sur 4 tables
 ```
 ### 2 : tournoi.ods
 ```
-feuilles de saisie des joueurs d'un tournoi et de calcul automatique des poules
+Feuilles de saisie des joueurs d'un tournoi et de calcul automatique des poules
 ```
 ```
 Les feuilles des tableaux Ko T16 T32 T64 sont indépendantes
@@ -25,7 +25,7 @@ Le fichier sert à générer automatiquement les poules :
 – la feuille « Tables » permet de calculer le nombre de joueurs par poules 3 ou 4 en fonction du nombre de table
 ```
 ```
-Sur le feuille « Joueurs » , il faut saisir :
+Sur la feuille « Joueurs » , il faut saisir :
 – les joueurs et la trier
 – Tableau : le nom du tableau
 – Nombre de table -> permet de calculer : Nombre de joueurs par poule conseillé
@@ -42,5 +42,15 @@ Les formules de calcul des poules sont :
 Chaque joueur à un numéro initial
 Le résultat des poules donne le nouveau numéro de chaque joueur en fonction de sa place
 Les joueurs sont placés dans le tableau avec ce numéro
-Un joueur ne peut pas rencontrer un autre joueur de sa poule avant les 1/2 finales ou la finale pour le 1 et 2
+Dans une poule :
+- le premier ne peut pas rencontrer le deuxième et le troisième avant la finale
+- le deuxième ne peut pas rencontrer le troisième avant la demi-finale
+- le quatrième ne peut pas rencontrer le deuxième et le troisième avant la finale
+- le quatrième ne peut pas rencontrer le premier avant la demi-finale
+
+```
+```
+Pour gérer plusieurs tableaux :
+Il faut créer un fichier par tableau en copiant le fichier d’origine
+Par exemple en tournoi.date.classement , tournoi.2020.01.12.1500
 ```
