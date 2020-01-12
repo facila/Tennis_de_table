@@ -22,8 +22,10 @@ Le fichier sert à générer automatiquement les poules :
 – la feuille « Poules » donne automatiquement les poules
 – les feuilles « Poules de 3 » et « Poules de 4 » donne les poules à imprimer
 – la feuille « Numéros » permet de calculer la position des joueurs dans les poules
-– la feuille « Tables » permet de calculer le nombre de joueurs par poules
-                        3 ou 4 en fonction du nombre de table
+– la feuille « Tables » permet de calculer le nombre de joueurs par poules conseillé
+                        3 ou 4 en fonction du nombre de tables
+                        2 est donné si le nombre de joueurs est trop important
+                        pour 2 il n'y a pas de poule mais un avant-tour avec les 2 joueurs qualifiés 
 ```
 ```
 Sur la feuille « Joueurs » , il faut saisir :
