@@ -2,7 +2,7 @@
 
 ### 1 : equipes_de _4_repartition_des_tables.ods
 ```
-Tableau donnant les possibilités pour faire jouer les équipes de 4 joueurs :
+Tableau donnant les possibilités pour faire jouer les équipes de 4 joueurs pour :
 - 2 rencontres sur 3 tables
 - 3 rencontres sur 4 tables
 ```
