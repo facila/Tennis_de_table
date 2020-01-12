@@ -18,12 +18,12 @@ Le fichier sert à générer automatiquement les poules :
 – la feuille « Numéros » permet de calculer la position des joueurs dans les poules
 – la feuille « Tables » permet de calculer le nombre de joueurs par poules 3 ou 4 en fonction du nombre de table
 
-sur le feuille « Joueurs » , il faut saisir :
+Sur le feuille « Joueurs » , il faut saisir :
 – les joueurs et la trier
 – Tableau : le nom du tableau
 – Nombre de table -> permet de calculer : Nombre de joueurs par poule conseillé
 – Joueurs par poule -> peut être modifié 3 ou 4
-Le reste est calculé automatiquement , nombre de match à jouer …..
+- le reste est calculé automatiquement , nombre de match à jouer …..
 
 Les formules de calcul des poules sont :
 - pour un nombre pair de poules   : tableaux standards
