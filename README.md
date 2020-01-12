@@ -16,6 +16,7 @@ Il n’y a pas de fonction de saisie des résultats des poules avec remplissage 
 Ces tableaux peuvent paraitre peu lisibles , mais ils permettent un suivi très simple de tout le tableau
 Le gagnant prend le numéro le plus bas du match , le perdant prend le numéro le haut
 ```
+```
 Le fichier sert à générer automatiquement les poules :
 – la feuille « Joueurs » sert à la saisie des joueurs et des paramètres
 – la feuille « Poules » donne automatiquement les poules
