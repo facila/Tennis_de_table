@@ -26,9 +26,9 @@ Le fichier sert à générer automatiquement les poules :
 ```
 ```
 Sur la feuille « Joueurs » , il faut saisir :
-– les joueurs et la trier
+– Les joueurs et la trier
 – Tableau : le nom du tableau
-– Nombre de table -> permet de calculer : Nombre de joueurs par poule conseillé
+– Nombre de table   -> permet de calculer : Nombre de joueurs par poule conseillé
 – Joueurs par poule -> peut être modifié 3 ou 4
 Le reste est calculé automatiquement , nombre de match à jouer …..
 ```
