@@ -30,7 +30,7 @@ Sur le feuille « Joueurs » , il faut saisir :
 – Tableau : le nom du tableau
 – Nombre de table -> permet de calculer : Nombre de joueurs par poule conseillé
 – Joueurs par poule -> peut être modifié 3 ou 4
-- le reste est calculé automatiquement , nombre de match à jouer …..
+Le reste est calculé automatiquement , nombre de match à jouer …..
 ```
 ```
 Les formules de calcul des poules sont :
